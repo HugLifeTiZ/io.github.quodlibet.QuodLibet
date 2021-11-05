@@ -88,8 +88,8 @@ modules:
   - name: soundtouch
     sources:
       - type: archive
-        url: https://gitlab.com/soundtouch/soundtouch/-/archive/2.3.0/soundtouch-2.3.0.tar.gz
-        sha256: b0f38497c72bb545d5d5c505243c5daa3598567641d25728d015b27678a68ad8
+        url: https://codeberg.org/soundtouch/soundtouch/archive/2.3.1.tar.gz
+        sha256: 42633774f372d8cb0a33333a0ea3b30f357c548626526ac9f6ce018c94042692
   - name: gst-libav
     sources:
       - type: archive
